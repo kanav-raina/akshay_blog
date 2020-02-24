@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #4c4c4c;
+  }
+
+  .center {
+    background-color: #4c4c4c;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  a { color: inherit; } 
